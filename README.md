@@ -5,7 +5,7 @@ Quarto curso em Business Intelligence da [Alura](https://www.alura.com.br/) real
 
 Curso: [Power BI: entendendo as fórmulas DAX](https://cursos.alura.com.br/course/power-bi-formulas-dax)
 
-Aprendizado: Realize conexões locais / Conheça as fórmulas DAX / Aprenda as principais funções / Conheça as ferramentas externas / Crie visualizações / Disponibilize o dashboard na web e em dispositivos mobile
+Aprendizado: conexões locais / fórmulas DAX / principais funções / ferramentas externas / visualizações / dashboard na web e em dispositivos mobile / Power BI Helper / DAX Studio
 
 Instrutor: [David Neves](https://www.linkedin.com/in/david-neves-04b543185/)
 
