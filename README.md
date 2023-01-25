@@ -1,6 +1,6 @@
 <h1 align="center">Curso da Alura: Power BI: entendendo as fórmulas DAX</h1>
 
-Quarto curso da [Alura](https://www.alura.com.br/) realizado, falta só um para finalizar a formação em Power BI em Data Science.
+Quarto curso em Business Intelligence da [Alura](https://www.alura.com.br/) realizado, falta só um para finalizar a formação em Power BI em Data Science.
 
 
 Curso: [Power BI: entendendo as fórmulas DAX](https://cursos.alura.com.br/course/power-bi-formulas-dax)
