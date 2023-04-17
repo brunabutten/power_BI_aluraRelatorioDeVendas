@@ -15,6 +15,9 @@ Aprendizado: conexões locais / fórmulas DAX / principais funções / ferrament
 
 Fiz a arte do dashboard no [Canva](https://www.canva.com) 😉
 
+Publicação no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7023813720862527488/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7023813720862527488%29)!
+
+
 <h1 align="center">Meu Dashboard produzido</h1>
 <p dir="auto"><img src="https://github.com/brunabutten/power_BI_aluraRelatorioDeVendas/blob/main/Power%20BI%20entendendo%20as%20f%C3%B3rmulas%20dax/Relat%C3%B3rio-de-Vendas.png" width="100%" style="max-width: 100%;"></p>
 
